@@ -1,6 +1,7 @@
 # Online-Pharmacy-Hub
 
 Source Codes: https://drive.google.com/drive/folders/1lotIG_W369uvN0Osg_-uEZMOy8N8_nhg?usp=share_link
+Mobile App APK: https://drive.google.com/file/d/1Eo-G2YyFFSIECNEEGZjnxiAXVNCnyX9b/view?usp=share_link
 
 In Sri Lanka, there are different platforms: web applications or mobile applications for pharmacy services. There isn't a centralized platform where people can view or buy products from multiple pharmacies without travelling and finding pharmacies nearest to their current location.
 
