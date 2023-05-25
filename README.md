@@ -28,3 +28,6 @@ There is a seperate web application for pharmacies for managing their orders and
 Tools and Technologies: Java, XML, HTML, CSS, Js, Spring Boot, Digital Ocean, Firebase, GitHub, VS Code, Draw.io, Photoshop, Figma and Adobe XD.
 
 Online Pharmacy Hub is made by Team Noobz69, a team consist of ten IT undergraduates of SLTC Research University as the project for Cloud App Development module in 6th semester.
+
+![1](https://github.com/MadhukaD/Online-Pharmacy-Hub/assets/83831219/b5fd8440-8320-46b3-b536-bf7742e45cd9)
+![2](https://github.com/MadhukaD/Online-Pharmacy-Hub/assets/83831219/36e18779-d7ce-41aa-a35f-a71733b2cf38)
