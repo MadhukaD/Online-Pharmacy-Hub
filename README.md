@@ -17,3 +17,14 @@ Primarily, users can,
 - After finishing the order, patients can do the payment and choose the delivery option (Delivery or Pickup).
 
 2. Search medicines and pharmacies, place orders and create accounts in Online Pharmacy Hub.
+
+There is a seperate web application for pharmacies for managing their orders and other activities. They can,
+
+- Register their pharmacy in Online Pharmacy Hub.
+- Accept prescriptions from nearest patients.
+- Manage orders.
+- Upload medicines and other items to their Pharmacy Profile.
+
+Tools and Technologies: Java, XML, HTML, CSS, Js, Spring Boot, Digital Ocean, Firebase, GitHub, VS Code, Draw.io, Photoshop, Figma and Adobe XD.
+
+Online Pharmacy Hub is made by Team Noobz69, a team consist of ten IT undergraduates of SLTC Research University as the project for Cloud App Development module in 6th semester.
